@@ -1,5 +1,5 @@
 title:            Quelques idées durables
-description:      des pistes pour le quotidien
+description:      des pistes pour verdir le quotidien
 
 # put your disqus here
 disqus_shortname:
@@ -24,7 +24,7 @@ menu:
 #    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
 #  - title: 'Install'
 #    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-    - title: 'Blog'
+  - title: 'Blog'
     url: '/posts'
     - title: 'Tags'
     url: '/tags'

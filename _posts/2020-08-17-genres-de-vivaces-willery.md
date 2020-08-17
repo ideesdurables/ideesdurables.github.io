@@ -150,6 +150,7 @@ Si les digitales communes se pérennisent par leurs semis spontanés, plusieurs 
 Dotés de très jolies fleurs et souvent d'un feuillage remarquable, ces plantes charmantes s'imposent pour agrémenter l'ombre des arbres et des arbustes. L'introduction récente de nouvelles espèces de Chine et du Japon permettra sous peu d'allonger considérablement la liste des plus beaux épimèdes.
 
 <u>Culture</u>: plantation en terre fraiche, riche en humus, à mi-ombre ou ombre. Raser le feuillage des espèces persistantes avant le développement des fleurs.
+
 <u>Utilisation</u>: les épimèdes persistants font d'excellents couvre-sol au pied des arbres et arbustes, même s'ils permettent parfois du temps à s'installer. Les autres produisent de jolies fleurs qui accompagnent les hellébores et autres plantes de sous-bois.
 
 ### Euphorbes (Euphorbia - Euphorbiaceae)
