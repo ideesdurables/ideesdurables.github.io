@@ -137,9 +137,7 @@ Vivace traditionnelle, le coeur de Marie s'est récemment "rajeuni" grâce à l'
 
 <u>Culture</u>: plantation en début de végétation dans une terre riche en humus, fraiche, à mi-ombre. En été, les feuilles disparaissent mais la plante repousse au printemps suivant. Multiplication par boutures de racines ou de bourgeons, division en quatre (pour les rampants).
 
-### Digitales 
-
-<em>(Digitalis - Scrophulariaceae)</em>
+### Digitales <em>(Digitalis - Scrophulariaceae)</em>
 
 Si les digitales communes se pérennisent par leurs semis spontanés, plusieurs espèces plus vivaces méritent d'être découvertes pour leurs jolies couleurs nuancées et pour leur silhouette fine et élancée.
 
