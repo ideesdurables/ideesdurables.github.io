@@ -6,6 +6,8 @@ tags: [diversité]
 categories: [vivaces]
 ---
 
+[Achillées](#Achillées)  
+
 ### Achillées (Achillea - Asteraceae)
 
 Plantes sans soucis, les achillées produisent durant tout l'été des inflorescences plates (corymbes) de couleurs variées. Les variétés aux teintes soutenues sont recherchées pour les bouquets secs.
